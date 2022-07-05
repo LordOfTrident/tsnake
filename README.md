@@ -6,14 +6,14 @@
 	<a href="./LICENSE">
 		<img alt="License" src="https://img.shields.io/badge/license-GPL-blue?color=7aca00"/>
 	</a>
-	<a href="https://github.com/LordOfTrident/pona/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/pona?color=0088ff"/>
+	<a href="https://github.com/LordOfTrident/tsnake/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/tsnake?color=0088ff"/>
 	</a>
-	<a href="https://github.com/LordOfTrident/pona/pulls">
-		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/pona?color=0088ff"/>
+	<a href="https://github.com/LordOfTrident/tsnake/pulls">
+		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/tsnake?color=0088ff"/>
 	</a>
 	<br><br><br>
-	<img width="600px" src="res/screenshots.png"/>
+	<img width="400px" src="res/screenshot.png"/>
 </p>
 
 ## Table of contents
