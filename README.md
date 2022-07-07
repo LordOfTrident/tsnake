@@ -24,7 +24,7 @@
 * [Make](#make)
 
 ## Introduction
-I decided to test how bad it is to write code using my [text editor](https://github.com/LordOfTrident/pone),
+I decided to test how bad it is to write code using my [text editor](https://github.com/LordOfTrident/pona),
 and it was not THAT bad. You can see how it went [here](https://youtu.be/duWvVleECZ0).
 
 ## Bugs
